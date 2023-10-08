@@ -5,7 +5,7 @@
 #     DISTANCIA DE MAHALANOBIS RGB 
 
 # El programa generalmente se utiliza para la clasificación de píxeles en una imagen en función de las estadísticas de color de las clases definidas previamente. 
-using ImageView, Images, Statistics, PlotlyJS, Distances
+using ImageView, Images, Statistics, PlotlyJS
 
 # Muestra una imagen I en una ventana utilizando la biblioteca ImageView. La imagen se muestra en un lienzo de tamaño 500x300 píxeles.
 mostrar(I) = return imshow(I, canvassize=(500, 300))
