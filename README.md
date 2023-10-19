@@ -94,3 +94,9 @@ El programa está desarrollado en Julia y utiliza las siguientes bibliotecas:
    - 3 para Máxima Probabilidad.
 
 5. El programa clasificará los píxeles de la imagen en función de la medida de distancia seleccionada y mostrará métricas de precisión, como la exactitud (accuracy) en diferentes escenarios.
+
+## Clasificador KNN : main_knn
+
+Este programa permite la seleccion de una imagen y su clasificación de píxeles en diferentes clases utilizando KNN (estadísticas de color). Permite al usuario seleccionar manualmente puntos en la imagen para formar clases y genera representantes alrededor de estos puntos. Luego, el programa permite clasificar nuevos píxeles en una de las clases.
+
+
