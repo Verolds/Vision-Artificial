@@ -101,5 +101,5 @@ Este programa permite la seleccion de una imagen y su clasificación de píxeles
 
 
 ## Detección de objetos : object_Detection
-## Operaciones Morfologicas (erosion y dilatasion) : operaciones_morfologicas
+## Operaciones Morfologicas (erosion y dilatacion) : operaciones_morfologicas
 ## Detección de bordes : border_detection
