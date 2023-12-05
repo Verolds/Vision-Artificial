@@ -100,3 +100,6 @@ El programa está desarrollado en Julia y utiliza las siguientes bibliotecas:
 Este programa permite la seleccion de una imagen y su clasificación de píxeles en diferentes clases utilizando KNN (estadísticas de color). Permite al usuario seleccionar manualmente puntos en la imagen para formar clases y genera representantes alrededor de estos puntos. Luego, el programa permite clasificar nuevos píxeles en una de las clases.
 
 
+## Detección de objetos : object_Detection
+## Operaciones Morfologicas (erosion y dilatasion) : operaciones_morfologicas
+## Detección de bordes : border_detection
